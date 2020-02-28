@@ -1,0 +1,12 @@
+/*-----------------------------------------------------------------------------
+| Copyright (c) Jupyter Development Team.
+| Distributed under the terms of the Modified BSD License.
+|----------------------------------------------------------------------------*/
+
+/**
+ * (DEPRECATED) Support for consuming icons as CSS background images
+ */
+
+:root {
+  --jp-icon-search-white: url('deprecated/search-white.svg');
+}

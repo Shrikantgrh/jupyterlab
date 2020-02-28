@@ -1,3 +1,8 @@
+**This Jupyter lab dont have functions like upload, Download, Export notebook. 
+
+
+
+
 **[Installation](#installation)** |
 **[Documentation](http://jupyterlab.readthedocs.io)** |
 **[Contributing](#contributing)** |
